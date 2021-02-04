@@ -7,5 +7,13 @@
 
 import Foundation
 
-print("Hello, World!")
+print("welcome to your time zone converter")
+print("")
+
+print("What time zone are you in?")
+print("""
+    1) Est
+    2) Pacific Standard Time
+    3) Central Standard Time
+    
 
